@@ -32,3 +32,6 @@
     * [raceCondition 竞态](/advance/raceCondition)
     * [OOP?使用结构体代替对象](/advance/structForObject)
     * [defer](/advance/defer)
+    * [error](/advance/error)
+    * [panic](/advance/panic)
+    * [first class function](/advance/func)
