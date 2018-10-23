@@ -35,3 +35,4 @@
     * [error](/advance/error)
     * [panic](/advance/panic)
     * [first class function](/advance/func)
+    * [reflection](/advance/reflection)
