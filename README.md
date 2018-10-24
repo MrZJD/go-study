@@ -36,3 +36,5 @@
     * [panic](/advance/panic)
     * [first class function](/advance/func)
     * [reflection](/advance/reflection)
+* Golong api 标准库
+    * [files 文件操作 包含os及io库 ](/apis/files)
