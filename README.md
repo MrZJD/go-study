@@ -2,6 +2,7 @@
 
 * [tutorial 目录为 http://www.runoob.com/go/go-tutorial.html 教程 初步](/tutorial)
 * [advance 目录为 https://studygolang.com/subject/2 教程 进阶](/advance)
+* [samples 目录为 https://www.golang123.com/book/17?chapterID=301 golang示例学教程](/samples)
 
 * tutorial 简单的语法教程
     * [index.go](/tutorial/index.go) main函数
@@ -36,5 +37,14 @@
     * [panic](/advance/panic)
     * [first class function](/advance/func)
     * [reflection](/advance/reflection)
-* Golong api 标准库
+* Golang api 标准库
     * [files 文件操作 包含os及io库 ](/apis/files)
+* Golang Samples 示例学
+    * [base64 编解码](/samples/base64)
+    * [defer](/samples/defer)
+    * [程序强制退出 os.Exit](/samples/exit)
+    * [json in go](/samples/json)
+    * [go line filters](/samples/lineFilters)
+    * [SHA1 散列](/samples/sha1)
+<!-- * Golang Application 应用程序 -->
+    
