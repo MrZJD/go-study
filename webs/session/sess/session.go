@@ -20,6 +20,11 @@ import (
 // 4. 存储
 // 5. 过期
 
+// 1. 对于session会话劫持的问题
+// a. cookie httpOnly
+// b. 外加一个token (登陆成功后返回给客户端 客户端每次请求都带上该token)
+// c. 间隔时间刷新sessionid
+
 var globalSession *msession.Manager
 
 func init() {
