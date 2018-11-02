@@ -57,5 +57,6 @@
     * [Socket](/webs/socket)
 * Golang GUI
     * [walk](/GUI/walk_demo)
+* [Golang WebAssembly](/webs/webassembly)
 <!-- * Golang Application 应用程序 -->
     
