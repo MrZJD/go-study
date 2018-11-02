@@ -53,6 +53,8 @@
     * [Web Forms表单](/webs/forms)
     * [Database SQL访问数据库](webs/database)
     * [Cookie & Session](/webs/session)
+    * [text 文本处理 strings/xml/json/regexp](/webs/text)
+    * [Socket](/webs/sockets)
 * Golang GUI
     * [walk](/GUI/walk_demo)
 <!-- * Golang Application 应用程序 -->
